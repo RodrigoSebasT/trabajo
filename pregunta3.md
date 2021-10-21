@@ -8,9 +8,9 @@
 
 Si quieres contribuir a nuestro proyecto, tienes que seguir los siguientes pasos
 
-1. Ve a nuestro proyecto en GitHub y realiza un fork!
+1. Ve a nuestro proyecto en GitHub y realiza un [fork](https://docs.github.com/es/get-started/quickstart/fork-a-repo)!
 2. Realiza las modificaciones que consideres necesarias en tu copia del proyecto.
-3. Envía un PR!
+3. Envía un [PR](https://docs.github.com/es/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)!
 4. Revisaremos tu PR tan pronto como podamos. Agradecemos mucho tu ayuda!
 
 ## Instalación
