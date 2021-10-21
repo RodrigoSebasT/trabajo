@@ -37,7 +37,7 @@ Despues de ello, entra a nuestro proyecto y ejecútalo:
 ## Progreso
 
 | Cargo | Encargado |
-| ------------- | ------------- |
+| :------------- | :------------- |
 | Frontend  | Magnus Carlsen  |
 | Backend | MVL  |
 | Database | Andrew Tang  |
