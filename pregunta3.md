@@ -1,6 +1,6 @@
 # My App
 
-My App es una aplicación creada para ayudar a las personas a lograr cosas asombrosas
+[My App](https://angular.io/) es una aplicación creada para ayudar a las personas a lograr cosas asombrosas
 
 ![Imagen de Thanos](https://preview.redd.it/sk9nb6lgccq31.gif?format=png8&s=4314adede1e763a54cb4b435e3d246da0460d3ae)
 
@@ -17,22 +17,22 @@ Si quieres contribuir a nuestro proyecto, tienes que seguir los siguientes pasos
 
 Necesitaras las siguientes herramientas para poder ejecutar el proyecto:
 
-Node.js 6.5+
-MySQL 8+
-npm 4+
-Angular cli
-Angular 8.x
-Ionic 2.x
+- Node.js 6.5+
+- MySQL 8+
+- npm 4+
+- Angular cli
+- Angular 8.x
+- Ionic 2.x
 
 ## Ejecutar el proyecto
 
 Una vez instalados todos los programas necesarios, solo necesitas clonar nuestro repositorio:
 
-gh repo clone <repo>
+`gh repo clone <repo>`
 
 Despues de ello, entra a nuestro proyecto y ejecútalo:
 
-npm start
+`npm start`
 
 ## Progreso
 
